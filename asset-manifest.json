@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-gifexpertapp/static/css/main.3dba32ba.css",
+    "main.js": "/react-gifexpertapp/static/js/main.4fe405ae.js",
+    "static/js/787.14eacf6e.chunk.js": "/react-gifexpertapp/static/js/787.14eacf6e.chunk.js",
+    "index.html": "/react-gifexpertapp/index.html",
+    "main.3dba32ba.css.map": "/react-gifexpertapp/static/css/main.3dba32ba.css.map",
+    "main.4fe405ae.js.map": "/react-gifexpertapp/static/js/main.4fe405ae.js.map",
+    "787.14eacf6e.chunk.js.map": "/react-gifexpertapp/static/js/787.14eacf6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3dba32ba.css",
+    "static/js/main.4fe405ae.js"
+  ]
+}
